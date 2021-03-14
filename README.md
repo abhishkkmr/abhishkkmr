@@ -5,7 +5,7 @@
 - 📫 How to reach me? Email me at abhishek117293@gmail.com
 - 📖 I'm student of B.Sc.Program in Computer Science at Delhi University.
 
-Thanks for looking for my Profile 😄
+Thanks for looking into my Profile 😄
 
 <!---
 abhishkkmr/abhishkkmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
